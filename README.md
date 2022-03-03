@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CP-33
-- 👀 I’m interested in 3D Printing
+- 👀 I’m interested in 3D Printing, Custom Hardware, Custom Controllers
 - 📫 How to reach me thingiverse/cults/prusa: CP3. Reddit: Snoww3
 
 <!---
